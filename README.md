@@ -11,7 +11,8 @@ This repository serves as a central index linking all assignments and projects f
 | Assignment 1 | TOPSIS (102317096) | 🔗 [View Repo](https://github.com/samiksha-bansal1/Topsis-Samiksha-102317096) |
 | Assignment 2 | Sampling Techniques | 🔗 [View Repo](https://github.com/samiksha-bansal1/Sampling) |
 | Assignment 3 | Probability Density Functions using Data | 🔗 [View Repo](https://github.com/samiksha-bansal1/Probability-Density-Functions-using-data) |
-| Assignment 4 | TOPSIS for Pretrained Model Text Generation | 🔗 [View Repo](https://github.com/samiksha-bansal1/Topsis-for-Pretrained-Model-Text-Generation) |
+| Assignment 4 | Probability Density Function using GAN | 🔗 [View Repo](https://github.com/samiksha-bansal1/Probability-Density-Function-using-GAN) |
+| Assignment 5 | TOPSIS for Pretrained Model Text Generation | 🔗 [View Repo](https://github.com/samiksha-bansal1/Topsis-for-Pretrained-Model-Text-Generation) |
 
 ---
 
