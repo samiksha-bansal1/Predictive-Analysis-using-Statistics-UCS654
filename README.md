@@ -15,6 +15,7 @@ This repository serves as a central index linking all assignments and projects f
 | Assignment 5 | TOPSIS for Pretrained Model Text Generation | 🔗 [View Repo](https://github.com/samiksha-bansal1/Topsis-for-Pretrained-Model-Text-Generation) |
 | Assignment 6 | Data-Generation-using-Modelling-and-Simulation-for-Machine-Learning |🔗 [View Repo](https://github.com/samiksha-bansal1/Data-Generation-using-Modelling-and-Simulation-for-Machine-Learning)|
 | Assignment 7 | Mashup |🔗 [View Repo](https://github.com/samiksha-bansal1/Youtube-mashup-creator)|
+| Assignment 8 | Parameter estimation |🔗 [View Repo](https://github.com/samiksha-bansal1/Parameter-Estimation-Assignment)|
 
 ---
 
